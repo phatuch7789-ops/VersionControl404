@@ -4,7 +4,7 @@
 <<<<<<< HEAD
     <q-input color="purple" v-model="text" label="Label">
 =======
-    <q-input color="purple-12" v-model="text" label="Label(ชื่อสีดำ)">
+    <q-input color="purple-12" v-model="text" label="Label(ชื่อสีด)">
 >>>>>>> iss53
       <template v-slot:prepend>
         <q-icon name="event" />
